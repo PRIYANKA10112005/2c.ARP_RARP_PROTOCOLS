@@ -1,6 +1,6 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS
-##  NAME : HIRUTHIK SUDHAKAR
-## REGISTER NUMBER : 212223240054
+##  NAME : PRIYANKA P
+## REGISTER NUMBER : 212224230212
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
@@ -17,7 +17,14 @@ To write a python program for simulating ARP protocols using TCP.
 stored.
 4. Read the IP address which is send by the client.
 5. Map the IP address with its MAC address and return the MAC address to client.
-P
+
+
+
+
+
+
+
+.
 ## PROGRAM - ARP
 ### server:
 ```python
@@ -72,14 +79,24 @@ c.close()
 
 ## OUTPUT - ARP
 ### server:
+![Screenshot 2025-03-13 105655](https://github.com/user-attachments/assets/a5eb45dd-f7c7-412c-b68b-4c862eaa3201)
 
 
-![alt text](image.png)
+
+
+
+
+.
 ### client
+![Screenshot 2025-03-13 105752](https://github.com/user-attachments/assets/fe3e6624-31d6-4fe6-89ff-bafbdcc886a3)
 
-![alt text](image-1.png)
 
 
+
+
+
+
+.
 ## PROGRAM - RARP
 ### server
 ```python
@@ -135,10 +152,23 @@ c.close()
 ## OUTPUT -RARP
 
 ### server
-![alt text](image-3.png)
-### client
+![Screenshot 2025-03-13 105836](https://github.com/user-attachments/assets/25b89348-cf11-4141-b371-0c7ce1039980)
 
-![alt text](image-2.png)
+
+
+
+
+.
+### client
+![Screenshot 2025-03-13 105902](https://github.com/user-attachments/assets/6b05f1a8-8cc5-4d7b-ac57-b31a0d616dfa)
+
+
+
+
+
+
+
+.
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
 executed.
